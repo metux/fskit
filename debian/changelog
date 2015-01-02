@@ -1,0 +1,11 @@
+fskit (1.0.1+142-trusty0) jessie; urgency=low
+
+  * Packaging for Ubuntu Trusty
+
+ -- Enrico Weigelt, metux IT consult <weigelt@metux.de>  Fri, 02 Jan 2015 18:42:13 +0100
+
+fskit (1.0.1+142-dpkg0) dpkg; urgency=low
+
+  * Generic dpkg packaging template
+
+ -- Enrico Weigelt, metux IT consult <weigelt@metux.de>  Fri, 02 Jan 2015 16:19:13 +0100
